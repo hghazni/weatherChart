@@ -1,6 +1,6 @@
 # WeatherChart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
+This is an Angular 5 project using Chart.js to display a chart from the Weather API. The goal of this project is to get more familiar with all three and to try out some of the changes in Angular 5.
 
 ## Development server
 
