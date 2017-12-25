@@ -1,13 +1,13 @@
 # WeatherChart
 
-This is an Angular 5 project using Chart.js to display a chart from the Weather API. The goal of this project is to get more familiar with all three and to try out some of the changes in Angular 5.
+This is an Angular 5 project using Chart.js to display a chart from the Open Weather Map API. The goal of this project is to get more familiar with all three and to try out some of the changes in Angular 5.
 
 ### Enable Cross Origin Resources
 One annoyance I discovered during this process is the 'allowance of cross origin resources'. So Chrome disallows the communication of two local hosts (API on one and the portal on the other) which then disallows this whole build to work. To counter that I downloaded 'CORS' or on the chrome app store known as 'Allow-Control-Allow-Origin'.
 
 https://goo.gl/HSy2yJ
 
-It then allows me to communicate between local hosts and not require me to run a web server. Of course all of this will not matter once you deploy it live to a web server somewhere.
+It then allows me to communicate between local hosts and not require me to run a live web server. Of course all of this will not matter once you deploy it live to a web server somewhere.
 
 
 ### Development server
